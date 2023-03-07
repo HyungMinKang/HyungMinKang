@@ -1,4 +1,10 @@
 Hi I am Android Developer 
+I usually develop android project using kotlin 
+
+My Portfolio :  [![portfolio](https://img.shields.io/badge/portfolio-%23%234285F4)](https://docs.google.com/presentation/d/1613H2wymYkWegzQGpRBFndUcOHujQgcy/edit?usp=sharing&ouid=109994934194906427243&rtpof=true&sd=true)
+
+
+<h3> 💦 My Skill </h3>
 <div align="center">
     
 [![Android](https://img.shields.io/badge/android%20studio-2021.1.1%20Patch%202-%233DDC84?logo=android-studio)]() [![Kotlin](https://img.shields.io/badge/kotlin-1.5.30-%237F52FF?logo=kotlin)]()
